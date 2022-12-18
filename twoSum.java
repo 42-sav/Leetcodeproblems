@@ -1,7 +1,8 @@
 import java.util.HashMap;
 import java.util.Map;
-
+//got some hints to use hashmap
 //find the two indices of the given array whose sum equals to the given target
+
 
 
 
